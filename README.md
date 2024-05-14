@@ -4,11 +4,9 @@ Reg no:FA23-BSE-195
 ASSIGNMENT TITLE: SEMESTER PROJECT
 
 OBJECT ORIENTED PROGRAMMING
-
                                                                                     CAB BOOKING SYSTEM
 
 Abstract:
-Sure, here's an abstract of the Cab Booking System presented in bullet points:
 
 - Purpose: 
 The Cab Booking System is designed to simplify and streamline the process of booking cabs for users through a user-friendly graphical interface.
