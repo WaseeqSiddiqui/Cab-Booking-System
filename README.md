@@ -5,7 +5,7 @@ ASSIGNMENT TITLE: SEMESTER PROJECT
 
 OBJECT ORIENTED PROGRAMMING
 
-                                                                                    **CAB BOOKING SYSTEM**
+                                                                                    CAB BOOKING SYSTEM
 
 Abstract:
 Sure, here's an abstract of the Cab Booking System presented in bullet points:
